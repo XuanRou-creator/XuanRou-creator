@@ -22,7 +22,7 @@ Interested in systematic trading, fixed income analysis, derivatives pricing, an
 | [Bond ETF Flow & Yield Curve Analysis](#) | Monthly analysis of Taiwan–U.S. bond ETF flows and yield curve movements. Findings reviewed by professor and published on Medium as part of a paid RA role. | Python · FRED API · Pandas |
 | [Bank SinoPac × DTDA Research Project](#) | Quantitative analysis on youth investor behavior and digital banking engagement. Presented data-driven insights and strategic recommendations to industry stakeholders. | Python · R · Survey Data |
 | [Squeeze Momentum Backtest System](#) | Systematic momentum strategy with ATR-based dynamic stop-loss and false signal filtering. | Python · Pine Script · Pandas |
-| [Option Pricing — Monte Carlo & LSM](#) | American option pricing using Longstaff-Schwartz, extended to Shout Options. | Python · NumPy · Monte Carlo |
+| [Option Pricing — Monte Carlo & LSM](https://github.com/XuanRou-creator/option-pricing-monte-carlo-lsm) | American option pricing using Longstaff-Schwartz, extended to Shout Options. | Python · NumPy · Monte Carlo |
 | [Care Assist](#) | Smart elderly care platform — 3rd place at NTHU Entrepreneurship Day (2024). | Product Strategy · Business Model |
 
 
